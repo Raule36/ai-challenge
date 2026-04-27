@@ -1,0 +1,23 @@
+.leaderboard {
+  background: #f8fafc;
+  color: #0f172a;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen,
+    Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  min-height: 100vh;
+  padding: 24px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+@media (max-width: 768px) {
+  .leaderboard {
+    padding: 16px;
+  }
+}

@@ -1,0 +1,771 @@
+[
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Completed Advanced Warp Theory Certification",
+    "category": "Education",
+    "date": "2024-01-15",
+    "points": 45
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Published Warp Coil Efficiency Study",
+    "category": "Public Speaking",
+    "date": "2024-03-22",
+    "points": 50
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Mentored Junior Engineers on Plasma Dynamics",
+    "category": "Public Speaking",
+    "date": "2024-06-10",
+    "points": 35
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Developed Warp Core Diagnostic Toolkit",
+    "category": "University Partnership",
+    "date": "2024-09-05",
+    "points": 50
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Authored Warp Field Safety Protocols",
+    "category": "University Partnership",
+    "date": "2025-01-18",
+    "points": 40
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Led Cross-Division Propulsion Workshop",
+    "category": "Public Speaking",
+    "date": "2025-05-12",
+    "points": 45
+  },
+  {
+    "email": "zara.voss@example.com",
+    "displayName": "Zara Voss",
+    "role": "Warp Field Engineer",
+    "unit": "Starship Division",
+    "activityName": "Patented Subspace Field Modulator Design",
+    "category": "Public Speaking",
+    "date": "2025-09-28",
+    "points": 50
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Mapped Uncharted Nebula Cluster NGC-7291",
+    "category": "University Partnership",
+    "date": "2024-02-08",
+    "points": 50
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Completed Deep Space Navigation Training",
+    "category": "Education",
+    "date": "2024-04-14",
+    "points": 40
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Presented Findings at Galactic Cartography Summit",
+    "category": "Public Speaking",
+    "date": "2024-07-20",
+    "points": 35
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Created Star System Classification Guide",
+    "category": "University Partnership",
+    "date": "2024-10-03",
+    "points": 30
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Developed Automated Star Mapping Algorithm",
+    "category": "Public Speaking",
+    "date": "2025-02-17",
+    "points": 50
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Trained New Cartography Recruits",
+    "category": "Education",
+    "date": "2025-06-09",
+    "points": 25
+  },
+  {
+    "email": "kael.orion@example.com",
+    "displayName": "Kael Orion",
+    "role": "Stellar Cartographer",
+    "unit": "Cosmic Research",
+    "activityName": "Published Interstellar Route Optimization Paper",
+    "category": "Public Speaking",
+    "date": "2025-10-22",
+    "points": 45
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Built Quantum Entanglement Monitoring Dashboard",
+    "category": "University Partnership",
+    "date": "2024-01-28",
+    "points": 45
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Completed Quantum Computing Foundations Course",
+    "category": "Education",
+    "date": "2024-05-11",
+    "points": 30
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Organized Quantum Lab Open House",
+    "category": "Public Speaking",
+    "date": "2024-08-15",
+    "points": 25
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Discovered Novel Quantum State Transition",
+    "category": "Public Speaking",
+    "date": "2024-11-20",
+    "points": 50
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Wrote Quantum Lab Safety Manual",
+    "category": "University Partnership",
+    "date": "2025-03-07",
+    "points": 35
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Contributed to Quantum Error Correction Framework",
+    "category": "University Partnership",
+    "date": "2025-07-14",
+    "points": 40
+  },
+  {
+    "email": "lyra.chen@example.com",
+    "displayName": "Lyra Chen",
+    "role": "Quantum Analyst",
+    "unit": "Quantum Lab",
+    "activityName": "Advanced Quantum Cryptography Certification",
+    "category": "Education",
+    "date": "2025-11-02",
+    "points": 45
+  },
+  {
+    "email": "orion.drake@example.com",
+    "displayName": "Orion Drake",
+    "role": "Nebula Architect",
+    "activityName": "Designed Nebula Harvesting Station Blueprint",
+    "category": "University Partnership",
+    "date": "2024-02-20",
+    "points": 40
+  },
+  {
+    "email": "orion.drake@example.com",
+    "displayName": "Orion Drake",
+    "role": "Nebula Architect",
+    "activityName": "Completed Structural Integrity Analysis Training",
+    "category": "Education",
+    "date": "2024-06-18",
+    "points": 25
+  },
+  {
+    "email": "orion.drake@example.com",
+    "displayName": "Orion Drake",
+    "role": "Nebula Architect",
+    "activityName": "Hosted Architecture Review Meetup",
+    "category": "Public Speaking",
+    "date": "2024-10-12",
+    "points": 20
+  },
+  {
+    "email": "orion.drake@example.com",
+    "displayName": "Orion Drake",
+    "role": "Nebula Architect",
+    "activityName": "Documented Nebula Station Construction Standards",
+    "category": "University Partnership",
+    "date": "2025-02-25",
+    "points": 30
+  },
+  {
+    "email": "orion.drake@example.com",
+    "displayName": "Orion Drake",
+    "role": "Nebula Architect",
+    "activityName": "Proposed Modular Habitat Ring Design",
+    "category": "Public Speaking",
+    "date": "2025-08-16",
+    "points": 35
+  },
+  {
+    "email": "nova.singh@example.com",
+    "displayName": "Nova Singh",
+    "role": "Plasma Researcher",
+    "unit": "Quantum Lab",
+    "activityName": "Published Plasma Containment Field Research",
+    "category": "Public Speaking",
+    "date": "2024-03-05",
+    "points": 40
+  },
+  {
+    "email": "nova.singh@example.com",
+    "displayName": "Nova Singh",
+    "role": "Plasma Researcher",
+    "unit": "Quantum Lab",
+    "activityName": "Completed Hazardous Materials Handling Certification",
+    "category": "Education",
+    "date": "2024-07-22",
+    "points": 20
+  },
+  {
+    "email": "nova.singh@example.com",
+    "displayName": "Nova Singh",
+    "role": "Plasma Researcher",
+    "unit": "Quantum Lab",
+    "activityName": "Volunteered for Science Outreach Program",
+    "category": "Public Speaking",
+    "date": "2024-11-08",
+    "points": 15
+  },
+  {
+    "email": "nova.singh@example.com",
+    "displayName": "Nova Singh",
+    "role": "Plasma Researcher",
+    "unit": "Quantum Lab",
+    "activityName": "Improved Plasma Injector Calibration Process",
+    "category": "University Partnership",
+    "date": "2025-04-19",
+    "points": 35
+  },
+  {
+    "email": "nova.singh@example.com",
+    "displayName": "Nova Singh",
+    "role": "Plasma Researcher",
+    "unit": "Quantum Lab",
+    "activityName": "Authored Plasma Safety Data Sheets",
+    "category": "University Partnership",
+    "date": "2025-09-11",
+    "points": 25
+  },
+  {
+    "email": "cassian.reed@example.com",
+    "displayName": "Cassian Reed",
+    "role": "Xenolinguist",
+    "activityName": "Translated Ancient Alien Signal Archive",
+    "category": "University Partnership",
+    "date": "2024-01-10",
+    "points": 30
+  },
+  {
+    "email": "cassian.reed@example.com",
+    "displayName": "Cassian Reed",
+    "role": "Xenolinguist",
+    "activityName": "Completed Exolinguistic Pattern Recognition Course",
+    "category": "Education",
+    "date": "2024-05-25",
+    "points": 25
+  },
+  {
+    "email": "cassian.reed@example.com",
+    "displayName": "Cassian Reed",
+    "role": "Xenolinguist",
+    "activityName": "Wrote Universal Translation Protocol Guide",
+    "category": "University Partnership",
+    "date": "2024-09-30",
+    "points": 30
+  },
+  {
+    "email": "cassian.reed@example.com",
+    "displayName": "Cassian Reed",
+    "role": "Xenolinguist",
+    "activityName": "Led First Contact Communication Workshop",
+    "category": "Public Speaking",
+    "date": "2025-01-14",
+    "points": 20
+  },
+  {
+    "email": "cassian.reed@example.com",
+    "displayName": "Cassian Reed",
+    "role": "Xenolinguist",
+    "activityName": "Developed AI-Assisted Translation Module",
+    "category": "Public Speaking",
+    "date": "2025-06-22",
+    "points": 40
+  },
+  {
+    "email": "ember.kane@example.com",
+    "displayName": "Ember Kane",
+    "activityName": "Optimized Fuel Cell Distribution Network",
+    "category": "University Partnership",
+    "date": "2024-03-18",
+    "points": 35
+  },
+  {
+    "email": "ember.kane@example.com",
+    "displayName": "Ember Kane",
+    "activityName": "Completed Zero-Gravity Operations Training",
+    "category": "Education",
+    "date": "2024-08-02",
+    "points": 20
+  },
+  {
+    "email": "ember.kane@example.com",
+    "displayName": "Ember Kane",
+    "activityName": "Organized Annual Starbase Charity Gala",
+    "category": "Public Speaking",
+    "date": "2025-02-10",
+    "points": 15
+  },
+  {
+    "email": "ember.kane@example.com",
+    "displayName": "Ember Kane",
+    "activityName": "Created Emergency Evacuation Procedure Docs",
+    "category": "University Partnership",
+    "date": "2025-07-05",
+    "points": 25
+  },
+  {
+    "email": "atlas.nero@example.com",
+    "displayName": "Atlas Nero",
+    "role": "Gravity Well Specialist",
+    "unit": "Nebula Operations",
+    "activityName": "Calibrated Station Gravity Generators",
+    "category": "University Partnership",
+    "date": "2024-04-09",
+    "points": 30
+  },
+  {
+    "email": "atlas.nero@example.com",
+    "displayName": "Atlas Nero",
+    "role": "Gravity Well Specialist",
+    "unit": "Nebula Operations",
+    "activityName": "Completed Advanced Graviton Theory Course",
+    "category": "Education",
+    "date": "2024-08-28",
+    "points": 35
+  },
+  {
+    "email": "atlas.nero@example.com",
+    "displayName": "Atlas Nero",
+    "role": "Gravity Well Specialist",
+    "unit": "Nebula Operations",
+    "activityName": "Presented at Interstellar Physics Conference",
+    "category": "Public Speaking",
+    "date": "2025-01-05",
+    "points": 25
+  },
+  {
+    "email": "atlas.nero@example.com",
+    "displayName": "Atlas Nero",
+    "role": "Gravity Well Specialist",
+    "unit": "Nebula Operations",
+    "activityName": "Documented Gravity Anomaly Response Procedures",
+    "category": "University Partnership",
+    "date": "2025-05-20",
+    "points": 20
+  },
+  {
+    "email": "atlas.nero@example.com",
+    "displayName": "Atlas Nero",
+    "role": "Gravity Well Specialist",
+    "unit": "Nebula Operations",
+    "activityName": "Invented Portable Gravity Stabilizer Prototype",
+    "category": "Public Speaking",
+    "date": "2025-10-08",
+    "points": 45
+  },
+  {
+    "email": "seren.flux@example.com",
+    "displayName": "Seren Flux",
+    "role": "Dark Matter Technician",
+    "activityName": "Maintained Dark Matter Containment Arrays",
+    "category": "University Partnership",
+    "date": "2024-02-14",
+    "points": 25
+  },
+  {
+    "email": "seren.flux@example.com",
+    "displayName": "Seren Flux",
+    "role": "Dark Matter Technician",
+    "activityName": "Completed Dark Energy Safety Protocols Training",
+    "category": "Education",
+    "date": "2024-06-30",
+    "points": 30
+  },
+  {
+    "email": "seren.flux@example.com",
+    "displayName": "Seren Flux",
+    "role": "Dark Matter Technician",
+    "activityName": "Wrote Dark Matter Handling Best Practices",
+    "category": "University Partnership",
+    "date": "2025-03-15",
+    "points": 20
+  },
+  {
+    "email": "seren.flux@example.com",
+    "displayName": "Seren Flux",
+    "role": "Dark Matter Technician",
+    "activityName": "Proposed Dark Matter Recycling Initiative",
+    "category": "Public Speaking",
+    "date": "2025-08-22",
+    "points": 30
+  },
+  {
+    "email": "juno.black@example.com",
+    "displayName": "Juno Black",
+    "role": "Communications Officer",
+    "unit": "Nebula Operations",
+    "activityName": "Upgraded Subspace Relay Network",
+    "category": "University Partnership",
+    "date": "2024-04-22",
+    "points": 35
+  },
+  {
+    "email": "juno.black@example.com",
+    "displayName": "Juno Black",
+    "role": "Communications Officer",
+    "unit": "Nebula Operations",
+    "activityName": "Completed Subspace Frequency Modulation Training",
+    "category": "Education",
+    "date": "2024-09-14",
+    "points": 25
+  },
+  {
+    "email": "juno.black@example.com",
+    "displayName": "Juno Black",
+    "role": "Communications Officer",
+    "unit": "Nebula Operations",
+    "activityName": "Mentored Cadets in Signal Processing",
+    "category": "Public Speaking",
+    "date": "2025-01-28",
+    "points": 20
+  },
+  {
+    "email": "juno.black@example.com",
+    "displayName": "Juno Black",
+    "role": "Communications Officer",
+    "unit": "Nebula Operations",
+    "activityName": "Documented Emergency Broadcast Protocols",
+    "category": "University Partnership",
+    "date": "2025-06-15",
+    "points": 15
+  },
+  {
+    "email": "rune.callisto@example.com",
+    "displayName": "Rune Callisto",
+    "role": "Shield Systems Engineer",
+    "activityName": "Redesigned Deflector Shield Array",
+    "category": "Public Speaking",
+    "date": "2024-05-03",
+    "points": 45
+  },
+  {
+    "email": "rune.callisto@example.com",
+    "displayName": "Rune Callisto",
+    "role": "Shield Systems Engineer",
+    "activityName": "Completed Shield Harmonics Certification",
+    "category": "Education",
+    "date": "2024-10-20",
+    "points": 30
+  },
+  {
+    "email": "rune.callisto@example.com",
+    "displayName": "Rune Callisto",
+    "role": "Shield Systems Engineer",
+    "activityName": "Contributed to Station Defense Grid Overhaul",
+    "category": "University Partnership",
+    "date": "2025-04-08",
+    "points": 40
+  },
+  {
+    "email": "rune.callisto@example.com",
+    "displayName": "Rune Callisto",
+    "role": "Shield Systems Engineer",
+    "activityName": "Hosted Shield Technology Symposium",
+    "category": "Public Speaking",
+    "date": "2025-11-14",
+    "points": 25
+  },
+  {
+    "email": "mira.solstice@example.com",
+    "displayName": "Mira Solstice",
+    "role": "Astrobotanist",
+    "unit": "Stellar Academy",
+    "activityName": "Cultivated Radiation-Resistant Crop Strain",
+    "category": "Public Speaking",
+    "date": "2024-03-30",
+    "points": 35
+  },
+  {
+    "email": "mira.solstice@example.com",
+    "displayName": "Mira Solstice",
+    "role": "Astrobotanist",
+    "unit": "Stellar Academy",
+    "activityName": "Completed Exobotany Research Methods Training",
+    "category": "Education",
+    "date": "2024-08-12",
+    "points": 20
+  },
+  {
+    "email": "mira.solstice@example.com",
+    "displayName": "Mira Solstice",
+    "role": "Astrobotanist",
+    "unit": "Stellar Academy",
+    "activityName": "Led Hydroponics Bay Tour for Visitors",
+    "category": "Public Speaking",
+    "date": "2025-02-05",
+    "points": 10
+  },
+  {
+    "email": "mira.solstice@example.com",
+    "displayName": "Mira Solstice",
+    "role": "Astrobotanist",
+    "unit": "Stellar Academy",
+    "activityName": "Documented Alien Flora Taxonomy",
+    "category": "University Partnership",
+    "date": "2025-07-19",
+    "points": 30
+  },
+  {
+    "email": "vex.hyperion@example.com",
+    "displayName": "Vex Hyperion",
+    "role": "Navigational AI Specialist",
+    "activityName": "Trained Navigational AI on New Star Charts",
+    "category": "University Partnership",
+    "date": "2024-01-22",
+    "points": 30
+  },
+  {
+    "email": "vex.hyperion@example.com",
+    "displayName": "Vex Hyperion",
+    "role": "Navigational AI Specialist",
+    "activityName": "Completed Machine Learning for Navigation Course",
+    "category": "Education",
+    "date": "2024-06-05",
+    "points": 25
+  },
+  {
+    "email": "vex.hyperion@example.com",
+    "displayName": "Vex Hyperion",
+    "role": "Navigational AI Specialist",
+    "activityName": "Authored AI Navigation System Technical Spec",
+    "category": "University Partnership",
+    "date": "2025-04-28",
+    "points": 35
+  },
+  {
+    "email": "thane.cosmos@example.com",
+    "displayName": "Thane Cosmos",
+    "role": "Life Support Technician",
+    "activityName": "Overhauled Atmospheric Recycling System",
+    "category": "University Partnership",
+    "date": "2024-04-15",
+    "points": 30
+  },
+  {
+    "email": "thane.cosmos@example.com",
+    "displayName": "Thane Cosmos",
+    "role": "Life Support Technician",
+    "activityName": "Completed Environmental Systems Certification",
+    "category": "Education",
+    "date": "2024-11-10",
+    "points": 25
+  },
+  {
+    "email": "thane.cosmos@example.com",
+    "displayName": "Thane Cosmos",
+    "role": "Life Support Technician",
+    "activityName": "Created Atmospheric Composition Monitoring Guide",
+    "category": "University Partnership",
+    "date": "2025-05-03",
+    "points": 20
+  },
+  {
+    "email": "sol.andromeda@example.com",
+    "displayName": "Sol Andromeda",
+    "activityName": "Streamlined Cargo Bay Logistics System",
+    "category": "University Partnership",
+    "date": "2024-07-08",
+    "points": 25
+  },
+  {
+    "email": "sol.andromeda@example.com",
+    "displayName": "Sol Andromeda",
+    "activityName": "Organized Inter-Deck Sports Tournament",
+    "category": "Public Speaking",
+    "date": "2024-12-15",
+    "points": 15
+  },
+  {
+    "email": "sol.andromeda@example.com",
+    "displayName": "Sol Andromeda",
+    "activityName": "Completed Supply Chain Management Training",
+    "category": "Education",
+    "date": "2025-03-20",
+    "points": 20
+  },
+  {
+    "email": "iris.pulsar@example.com",
+    "displayName": "Iris Pulsar",
+    "role": "Sensor Array Technician",
+    "unit": "Cosmic Research",
+    "activityName": "Recalibrated Long-Range Sensor Grid",
+    "category": "University Partnership",
+    "date": "2024-02-28",
+    "points": 25
+  },
+  {
+    "email": "iris.pulsar@example.com",
+    "displayName": "Iris Pulsar",
+    "role": "Sensor Array Technician",
+    "unit": "Cosmic Research",
+    "activityName": "Completed Sensor Diagnostics Advanced Training",
+    "category": "Education",
+    "date": "2024-09-18",
+    "points": 30
+  },
+  {
+    "email": "iris.pulsar@example.com",
+    "displayName": "Iris Pulsar",
+    "role": "Sensor Array Technician",
+    "unit": "Cosmic Research",
+    "activityName": "Built Anomaly Detection Alert System",
+    "category": "Public Speaking",
+    "date": "2025-04-12",
+    "points": 40
+  },
+  {
+    "email": "iris.pulsar@example.com",
+    "displayName": "Iris Pulsar",
+    "role": "Sensor Array Technician",
+    "unit": "Cosmic Research",
+    "activityName": "Wrote Sensor Calibration Procedures Manual",
+    "category": "University Partnership",
+    "date": "2025-10-30",
+    "points": 20
+  },
+  {
+    "email": "cade.zenith@example.com",
+    "displayName": "Cade Zenith",
+    "role": "Docking Bay Coordinator",
+    "activityName": "Managed Fleet Docking Schedule Optimization",
+    "category": "University Partnership",
+    "date": "2024-05-19",
+    "points": 20
+  },
+  {
+    "email": "cade.zenith@example.com",
+    "displayName": "Cade Zenith",
+    "role": "Docking Bay Coordinator",
+    "activityName": "Completed Vessel Identification Systems Training",
+    "category": "Education",
+    "date": "2024-12-02",
+    "points": 15
+  },
+  {
+    "email": "cade.zenith@example.com",
+    "displayName": "Cade Zenith",
+    "role": "Docking Bay Coordinator",
+    "activityName": "Created Docking Protocol Quick Reference Card",
+    "category": "University Partnership",
+    "date": "2025-06-28",
+    "points": 10
+  },
+  {
+    "email": "phaedra.lux@example.com",
+    "displayName": "Phaedra Lux",
+    "role": "Holographic Systems Designer",
+    "unit": "Stellar Academy",
+    "activityName": "Designed Immersive Training Holodeck Scenarios",
+    "category": "Public Speaking",
+    "date": "2024-06-25",
+    "points": 40
+  },
+  {
+    "email": "phaedra.lux@example.com",
+    "displayName": "Phaedra Lux",
+    "role": "Holographic Systems Designer",
+    "unit": "Stellar Academy",
+    "activityName": "Completed Holographic Projection Engineering Training",
+    "category": "Education",
+    "date": "2024-11-15",
+    "points": 25
+  },
+  {
+    "email": "phaedra.lux@example.com",
+    "displayName": "Phaedra Lux",
+    "role": "Holographic Systems Designer",
+    "unit": "Stellar Academy",
+    "activityName": "Ran Holodeck Demo Day for Academy Students",
+    "category": "Public Speaking",
+    "date": "2025-03-28",
+    "points": 15
+  },
+  {
+    "email": "phaedra.lux@example.com",
+    "displayName": "Phaedra Lux",
+    "role": "Holographic Systems Designer",
+    "unit": "Stellar Academy",
+    "activityName": "Contributed Emergency Medical Hologram Update",
+    "category": "University Partnership",
+    "date": "2025-08-05",
+    "points": 35
+  }
+]

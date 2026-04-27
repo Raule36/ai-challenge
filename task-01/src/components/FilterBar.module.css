@@ -1,0 +1,46 @@
+.filterBar {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: space-between;
+  margin: 0 auto 24px;
+  max-width: 1200px;
+  padding: 20px 24px;
+  transition: all 0.2s;
+}
+
+.filterBar:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.search {
+  flex: 1;
+  min-width: 250px;
+}
+
+@media (max-width: 768px) {
+  .filterBar {
+    align-items: stretch;
+    flex-direction: column;
+    padding: 16px;
+  }
+  .filters {
+    flex-direction: column;
+    width: 100%;
+  }
+  .search {
+    min-width: unset;
+    width: 100%;
+  }
+}

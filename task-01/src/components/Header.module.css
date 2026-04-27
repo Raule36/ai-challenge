@@ -1,0 +1,33 @@
+.header {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto 32px;
+  max-width: 1200px;
+}
+
+.headerContent {
+  flex: 1;
+}
+
+.headerContent h2 {
+  color: #0f172a;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.headerContent p {
+  color: #64748b;
+  font-size: 14px;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .header {
+    margin-bottom: 24px;
+  }
+  .headerContent h2 {
+    font-size: 24px;
+  }
+}

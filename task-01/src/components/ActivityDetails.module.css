@@ -1,0 +1,109 @@
+.details {
+  background: #f8fafc;
+  border-top: 1px solid #e2e8f0;
+  padding: 24px;
+}
+
+.detailsTitle {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin: 0 0 16px;
+  text-transform: uppercase;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+}
+
+.activityTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.activityTable thead tr {
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.activityTable thead th {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 12px 8px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.activityTable thead th:last-child {
+  text-align: right;
+}
+
+.activityTable tbody tr {
+  transition: background-color 0.2s;
+}
+
+.activityTable tbody tr:hover {
+  background: #f1f5f9;
+}
+
+.activityTable tbody td {
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 14px;
+  padding: 16px 8px;
+}
+
+.activityTable tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.activityName {
+  color: #1e293b;
+  font-weight: 600;
+}
+
+.categoryBadge {
+  align-items: center;
+  border-radius: 12px;
+  display: inline-flex;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 12px;
+}
+
+.categoryTraining {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.categoryContribution {
+  background: #f3e8ff;
+  color: #6b21a8;
+}
+
+.categoryCommunity {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.categoryDefault {
+  background: #e2e8f0;
+  color: #475569;
+}
+
+.activityDate {
+  color: #64748b;
+}
+
+.activityPoints {
+  color: #0ea5e9;
+  font-weight: 700;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .details {
+    padding: 16px;
+  }
+}

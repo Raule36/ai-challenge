@@ -1,0 +1,248 @@
+.podium {
+  align-items: flex-end;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin: 0 auto 64px;
+  max-width: 900px;
+  padding: 32px 8px;
+}
+
+.podiumColumn {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  max-width: 280px;
+  position: relative;
+  width: 100%;
+}
+
+.podiumRank1 {
+  margin-top: -32px;
+  order: 2;
+}
+
+.podiumRank2 {
+  order: 1;
+}
+
+.podiumRank3 {
+  order: 3;
+}
+
+.podiumUser {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  position: relative;
+  z-index: 10;
+}
+
+.podiumAvatarContainer {
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.podiumAvatar {
+  align-items: center;
+  background-position: 50%;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  color: #fff;
+  display: flex;
+  font-weight: 700;
+  justify-content: center;
+}
+
+.podiumRank1 .podiumAvatar {
+  background-color: #86efac;
+  border: 4px solid #fbbf24;
+  color: #166534;
+}
+
+.podiumRank2 .podiumAvatar {
+  background-color: #cbd5e1;
+  border: 4px solid #fff;
+  color: #1e293b;
+}
+
+.podiumRank3 .podiumAvatar {
+  background-color: #5eead4;
+  border: 4px solid #fff;
+  color: #134e4a;
+}
+
+.podiumAvatar span {
+  font-size: 24px;
+}
+
+.podiumRank1 .podiumAvatar span {
+  font-size: 32px;
+}
+
+.podiumRankBadge {
+  align-items: center;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  bottom: -8px;
+  color: #fff;
+  display: flex;
+  font-weight: 700;
+  justify-content: center;
+  position: absolute;
+  right: -4px;
+}
+
+.podiumRank1 .podiumRankBadge {
+  background: #eab308;
+  font-size: 18px;
+}
+
+.podiumRank2 .podiumRankBadge {
+  background: #94a3b8;
+  font-size: 14px;
+}
+
+.podiumRank3 .podiumRankBadge {
+  background: #92400e;
+  font-size: 14px;
+}
+
+.podiumName {
+  color: #0f172a;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 4px;
+  text-align: center;
+}
+
+.podiumRank1 .podiumName {
+  font-size: 24px;
+}
+
+.podiumRole {
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0 0 8px;
+}
+
+.podiumScore {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 20px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  display: flex;
+  font-size: 18px;
+  font-weight: 700;
+  gap: 6px;
+  padding: 6px 16px;
+}
+
+.podiumRank1 .podiumScore {
+  background: #fef9c3;
+  border-color: #fde047;
+  color: #ca8a04;
+  font-size: 20px;
+  padding: 8px 20px;
+}
+
+.podiumRank2 .podiumScore,
+.podiumRank3 .podiumScore {
+  color: #0ea5e9;
+}
+
+.podiumScore i {
+  font-size: 16px;
+}
+
+.podiumRank1 .podiumScore i {
+  font-size: 18px;
+}
+
+.podiumBlock {
+  align-items: flex-start;
+  background: linear-gradient(180deg, #e2e8f0, #cbd5e1);
+  border-radius: 12px 12px 0 0;
+  border-top: 2px solid #cbd5e1;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  padding-top: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.podiumRank1 .podiumBlock {
+  background: linear-gradient(180deg, #fef3c7, #fde68a);
+  border-top-color: #fde047;
+  height: 160px;
+}
+
+.podiumRank2 .podiumBlock {
+  height: 128px;
+}
+
+.podiumRank3 .podiumBlock {
+  height: 96px;
+}
+
+.podiumBlockTop {
+  height: 2px;
+  inset: 0 0 auto 0;
+  position: absolute;
+}
+
+.podiumRank1 .podiumBlockTop {
+  background: #fde047;
+}
+
+.podiumRank2 .podiumBlockTop,
+.podiumRank3 .podiumBlockTop {
+  background: #cbd5e1;
+}
+
+.podiumRankNumber {
+  color: rgba(148, 163, 184, 0.2);
+  font-size: 96px;
+  font-weight: 900;
+  position: relative;
+  user-select: none;
+}
+
+.podiumRank1 .podiumRankNumber {
+  color: rgba(234, 179, 8, 0.2);
+  font-size: 112px;
+}
+
+.podiumRank3 .podiumRankNumber {
+  top: -16px;
+}
+
+@media (max-width: 768px) {
+  .podium {
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 32px;
+  }
+  .podiumRank1 {
+    margin-top: 0;
+    order: 1;
+  }
+  .podiumRank2 {
+    order: 2;
+  }
+  .podiumRank1 .podiumBlock {
+    height: 140px;
+  }
+  .podiumRank2 .podiumBlock {
+    height: 96px;
+  }
+  .podiumRank3 .podiumBlock {
+    height: 64px;
+  }
+}
